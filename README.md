@@ -12,4 +12,4 @@ The script implements a multi-sensor methodological framework for rainfall-induc
 - Random Forest supervised classification
 
 ## Code
-The main script is located in:
+The main script is located in: https://github.com/Lgajardo87/landsilde-detection-gee.git
