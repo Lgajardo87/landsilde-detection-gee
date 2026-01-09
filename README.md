@@ -15,11 +15,12 @@ The script implements a multi-sensor methodological framework for rainfall-induc
 
 ## Usage
 
-1. Open the script `code/landslide_detection_GEE_RF.js`
-2. Copy the script into the Google Earth Engine Code Editor
-3. Define the study area
-4. Set pre- and post-event periods
-5. Run
+1. Open the script `code/landslide_detection_GEE_RF.js`.
+2. Copy the script into the Google Earth Engine Code Editor.
+3. Define the study area.
+4. Provide a landslide inventory in polygon format to be used as training and validation data.
+5. Set the pre-event and post-event periods relative to the landslide occurrence.
+6. Run the script.
 
 ## Requirements
 
